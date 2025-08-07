@@ -1,1 +1,2 @@
-<img class="avatar" src="WechatIMG330.jpeg" alt="Portrait of Zhou Ying" />
+curl -L -o WechatIMG330.jpeg https://github.com/zhouying-1203/zhou-ying/raw/main/WechatIMG330.jpeg
+
